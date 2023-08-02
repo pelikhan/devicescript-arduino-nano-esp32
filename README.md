@@ -1,2 +1,4 @@
-# devicescript-arduino-nano-esp32
-DeviceScript board definition
+# - project name -
+
+This project uses [DeviceScript](https://microsoft.github.io/devicescript/).
+
